@@ -1,5 +1,5 @@
 <h1>My CSS201 Project</h1>
-<img src='image.png'>
+<img src='page.png'>
 I used:
 <ul>
   <li>flexbox</li>
